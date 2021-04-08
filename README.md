@@ -1,1 +1,1 @@
-# responsive-HTML-Email
+# Responsive HTML Email
